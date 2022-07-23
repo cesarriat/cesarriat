@@ -1,6 +1,7 @@
 ### Hi stalker 👋
 
 
+![gif](https://user-images.githubusercontent.com/34106936/180625449-2e9f8a67-9e74-446f-92c3-0cc4f6bf2908.gif)
 
 About me
 I from Argentina.When I was a child I played with insects to predict their behavior. Then in the school i participate in the mathematics Olympiad. In the university I graduated from engineering in food.
