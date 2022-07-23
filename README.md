@@ -1,7 +1,6 @@
 ### Hi stalker 👋
 
-<!--
-**cesarriat/cesarriat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 About me
 I from Argentina.When I was a child I played with insects to predict their behavior. Then in the school i participate in the mathematics Olympiad. In the university I graduated from engineering in food.
