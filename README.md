@@ -10,6 +10,6 @@ Right now I do the same thing I did since I was a boy, I solve problems but I us
 👉 Technology that I use: Python, Tensorflow, Pytorch , R, Keras, Pandas, Scikit Learn, open cv, Azure, Google Cloud , html, css, javascript, gradio, streamlit. google colab, docker, gitlab, github 👈
 
 
-- 📫 How to reach me: [link]( https://linktr.ee/cesarriat)
+- 📫 How to reach me: [link](https://cesarriat.com)
 
 
